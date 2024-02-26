@@ -3,7 +3,7 @@ const express = require('express');
 const uuid = require('./public/helpers/uuid')
 const fs = require('fs')
 
-const PORT = 3001;
+const PORT = 3001 || process.env.PORT;
 const path = require('path');
 
 const app = express();
