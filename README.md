@@ -7,10 +7,10 @@ The following project was created as a part of the Adealide University Web Devel
 While completing this project I gained valuable skills in using the Express.js framework by making GET, POST and DELETE requests which were used to display, write and delete notes to a JSON file located on the server. I found that through compelting this project, I understood the importance of separating the front and back end along with how to commmunicate information between the two frameworks. It has been helpful to gain insight into the function of middleware, the Node File System and paths.
 
 
- ## Installation
-
+Access the live link for this application here: https://my-note-taker-app-for-uadl-a461885ba86d.herokuapp.com/
+This application has been deployed with heroku
 ## Usage
-
+Access this application by using the deployed heroku application here: https://my-note-taker-app-for-uadl-a461885ba86d.herokuapp.com/
 After accessing the live server you can load the Notes section by pressing "Get Started"
 
 ![Landing Page](./public/Screenshots/Landing%20Page.png)
